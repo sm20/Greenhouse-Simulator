@@ -14,7 +14,3 @@ INSTRUCTIONS
 2. Run the program:
 	java MainController.java
 	
-OR  
-
-Run the Calculator.jar file by entering the following command:  
-	java -jar Calculator.jar
